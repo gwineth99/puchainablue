@@ -1,0 +1,15 @@
+body{
+    background-color: palevioletred;
+}
+
+
+.so{
+    font-size: 5vh;
+    align-items: center;
+    justify-content: center;
+    margin-left: 27%;
+}
+.lup{
+    font-size: 5vh;
+    color: black;
+}

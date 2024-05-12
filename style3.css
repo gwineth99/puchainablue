@@ -1,0 +1,11 @@
+body{
+    background-color: palevioletred;
+}
+
+button{
+    border-radius: 3%;
+    text-align: justify;
+    font-size: 200%;
+    margin-left: 5%;
+    margin-right: 5%;
+}

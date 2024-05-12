@@ -1,0 +1,18 @@
+body{
+    background-color: palevioletred;
+}
+
+.titulo{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 600%;
+    margin-top: 7%
+}
+
+.dos{
+    text-align: center;
+    align-items: center;
+}
